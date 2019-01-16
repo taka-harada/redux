@@ -1,0 +1,17 @@
+### Frontend ###
+#### Node Package Modules ####
+**/node_modules/
+
+#### CSS Pre-Processor ####
+**/.sass-cache/
+
+# next.js build output
+/.next
+
+
+*.pid
+/.idea/Hivelocity.iml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/vcs.xml
+/.idea/workspace.xml
